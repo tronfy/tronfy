@@ -16,16 +16,15 @@ I'm Nícolas, welcome to my profile!
 
 <a href="https://git-scm.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30" /> </a>
 <a href="https://reactjs.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="30" height="30" /> </a>
-<a href="https://flutter.dev/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="30" height="30" /> </a>
-<a href="https://dart.dev/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="30" height="30" /> </a>
+<a href="https://nextjs.org/" target="_blank" > <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="nextjs" width="30" height="30" /> </a>
 <a href="https://docs.microsoft.com/cpp/cpp" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30" /> </a>
 <a href="https://docs.microsoft.com/cpp/c-language/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30" /> </a>
 
 ### 📚 I am learning
 
-<a href="https://elixir-lang.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="30" height="30"/> </a>
+<a href="https://www.ruby-lang.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" alt="ruby" width="30" height="30" /> </a>
+<a href="https://rubyonrails.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="30" height="30" /> </a>
 <a href="https://www.rust-lang.org/" target="_blank" > <img src="https://www.rust-lang.org/static/images/favicon.svg" alt="rust" width="30" height="30" /> </a>
-<a href="https://nextjs.org/" target="_blank" > <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" alt="nextjs" width="30" height="30" /> </a>
 <a href="https://deno.land/" target="_blank" > <img src="https://raw.githubusercontent.com/denoland/deno/main/docs/images/deno3.png" alt="deno" width="30" height="30"/> </a>
 
 ### 📬 Connect with me at
