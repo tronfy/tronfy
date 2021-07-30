@@ -25,7 +25,7 @@ I'm Nícolas, welcome to my profile!
 <a href="https://www.ruby-lang.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg" alt="ruby" width="30" height="30" /> </a>
 <a href="https://rubyonrails.org/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg" alt="rails" width="30" height="30" /> </a>
 <a href="https://www.rust-lang.org/" target="_blank" > <img src="https://www.rust-lang.org/static/images/favicon.svg" alt="rust" width="30" height="30" /> </a>
-<a href="https://deno.land/" target="_blank" > <img src="https://raw.githubusercontent.com/denoland/deno/main/docs/images/deno3.png" alt="deno" width="30" height="30"/> </a>
+<a href="https://deno.land/" target="_blank" > <img src="https://raw.githubusercontent.com/denoland/manual/main/images/deno3.png" alt="deno" width="30" height="30"/> </a>
 
 ### 📬 Connect with me at
 
