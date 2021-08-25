@@ -33,7 +33,8 @@ I'm Nícolas, welcome to my profile!
 <a href="https://www.instagram.com/nicolasdschmidt/" target="_blank" > <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="instagram" width="30" height="30" /> </a>
 
 <a href="https://github.com/jstrieb/github-stats">
-
+   
+![](https://github.com/nicolasdschmidt/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/nicolasdschmidt/github-stats/blob/master/generated/languages.svg)
-
+   
 </a>
