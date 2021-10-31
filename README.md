@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/nicolasdschmidt/" target="_blank" > <img src="https://img.shields.io/badge/Instagram-C00089?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
 </p>
 
-<hr />
+<br />
 
 <h3 align='center'>
   🚀 technologies 💻
