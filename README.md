@@ -36,8 +36,8 @@
 <a href="https://code.visualstudio.com" target="_blank" > <img src="https://img.shields.io/badge/VSCode-1685D0?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" /></a>
 <a href="https://developer.android.com/studio" target="_blank" > <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="androidstudio" /></a>
 <a href="https://www.jetbrains.com/rider" target="_blank" > <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" alt="rider" /></a><br />
-<a href="https://www.microsoft.com/windows" target="_blank" > <img src="https://img.shields.io/badge/Windows-2AB6FF?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /></a>
-<a href="https://ubuntu.com" target="_blank" > <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" /></a>
+<a href="https://manjaro.org/" target="_blank" > <img src="https://img.shields.io/badge/Manjaro_KDE-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="manjaro" /></a>
+<a href="https://www.microsoft.com/windows" target="_blank" > <img src="https://img.shields.io/badge/Windows_10-2AB6FF?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /></a>
 </p>
 
 <br />
