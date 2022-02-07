@@ -18,6 +18,7 @@
   🚀 technologies 💻
 </h3>
 <p align='center'>
+<a href="https://www.typescriptlang.org/" target="_blank" > <img src="https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" /></a>
 <a href="https://www.javascript.com" target="_blank" > <img src="https://img.shields.io/badge/JavaScript-FF8B00?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript" /></a>
 <a href="https://www.oracle.com/java" target="_blank" > <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white" alt="java" /></a>
 <a href="https://www.python.org" target="_blank" > <img src="https://img.shields.io/badge/Python-055CF2?style=for-the-badge&logo=python&logoColor=white" alt="python" /></a>
