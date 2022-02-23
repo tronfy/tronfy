@@ -25,8 +25,8 @@
 <a href="https://docs.microsoft.com/dotnet/csharp" target="_blank" > <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" /></a><br />
 <a href="https://nodejs.org" target="_blank" > <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" /></a>
 <a href="https://www.android.com" target="_blank" > <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" /></a>
-<a href="https://reactjs.org" target="_blank" > <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" alt="react" /></a>
 <a href="https://nextjs.org" target="_blank" > <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs" /></a>
+<a href="https://www.docker.com/" target="_blank" > <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /></a>
 <a href="https://git-scm.com" target="_blank" > <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
 </p>
 
