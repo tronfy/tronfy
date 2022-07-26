@@ -43,5 +43,5 @@
 
 <br />
 <p align='center'>
-📬 reach me at <a href='mailto:nicolasdschmidt@pm.me'>nicolasdschmidt@pm.me</a>
+📬 reach me at <a href='mailto:nicolasdschmidt@pm.me'>nicolasdschmidt@protonmail.com</a>
 </p>
