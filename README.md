@@ -14,6 +14,6 @@
     tools: ['vscode', 'intellij', 'git'],
   },
 
-  learning: ['rust', 'kotlin', 'android jetpack']
+  learning: ['rust', 'ruby']
 }
 ```
