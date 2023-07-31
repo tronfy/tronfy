@@ -6,14 +6,14 @@
 
   bio:
     'full-stack developer and computer science student ' +
-    'currently working with backend and building hobby projects',
+    'currently studying and building hobby projects',
 
   skillset: {
     languages: ['typescript', 'javascript', 'java', 'python', 'c#'],
-    frameworks: ['node', 'next', 'react', 'spring', 'android'],
+    frameworks: ['node', 'next', 'react', 'android', 'spring'],
     tools: ['vscode', 'intellij', 'git'],
   },
 
-  learning: ['rust', 'ruby']
+  learning: ['rust']
 }
 ```
